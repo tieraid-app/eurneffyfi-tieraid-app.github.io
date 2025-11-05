@@ -1,2 +1,2 @@
-# eurneffyfi-tieraid-app.github.io
-EURneffy FI @ tieraid
+# EURneffy FI @ tieraid
+Do not edit anything on this page, it is automatically cloned from tieraid main app
